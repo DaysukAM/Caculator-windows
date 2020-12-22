@@ -18,5 +18,4 @@ C:\Users\anthony.moutonnet\source\repos\CalculatorVB\CalculatorVB\obj\Debug\net5
 C:\Users\anthony.moutonnet\source\repos\CalculatorVB\CalculatorVB\obj\Debug\net5.0-windows\ref\CalculatorVB.dll
 C:\Users\anthony.moutonnet\source\repos\CalculatorVB\CalculatorVB\obj\Debug\net5.0-windows\CalculatorVB.pdb
 C:\Users\anthony.moutonnet\source\repos\CalculatorVB\CalculatorVB\obj\Debug\net5.0-windows\CalculatorVB.genruntimeconfig.cache
-C:\Users\anthony.moutonnet\source\repos\CalculatorVB\CalculatorVB\obj\Debug\net5.0-windows\CalculatorVB.vbprojAssemblyReference.cache
 C:\Users\anthony.moutonnet\source\repos\CalculatorVB\CalculatorVB\obj\Debug\net5.0-windows\CalculatorVB.Resources.resources

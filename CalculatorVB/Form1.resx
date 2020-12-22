@@ -793,7 +793,7 @@
 </value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>814, 515</value>
+    <value>324, 445</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Form1</value>
