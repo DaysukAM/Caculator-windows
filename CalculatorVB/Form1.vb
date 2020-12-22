@@ -243,8 +243,4 @@
         'si il n'y a pas de 2eme opérateur, la fonction renvoie nbTemp car il correspond au resultat du calcul simple à un opérateur
         Return nbTemp
     End Function
-
-    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles  ResultBox.Click
-
-    End Sub
 End Class
